@@ -1,8 +1,8 @@
 package com.jkxy.test;
 
-public class Test {
+public class Demo {
 	public static void main(String[] args) {
 	
-		System.out.println("Test.java change");
+		System.out.println("Hello jikexueyuan");
 	}
 }
